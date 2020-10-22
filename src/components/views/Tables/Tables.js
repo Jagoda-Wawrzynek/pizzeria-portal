@@ -6,6 +6,6 @@ export const Tables = () => (
   <div className={styles.component}>
     <h2>Tables View</h2>
     <Link to="/tables/ordering">Booking</Link>
-    <Link to="/tables/events">Event</Link>
+    <Link to="/tables/events">Events</Link>
   </div>
 );
